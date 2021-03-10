@@ -1,0 +1,13 @@
+{
+  "name": "mapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd gapp & npm start",
+    "client": "cd fetchql & npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
